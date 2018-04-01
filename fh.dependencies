@@ -1,0 +1,35 @@
+[
+  {
+    "repository": "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "lineage-15.1"
+  }
+],
+[
+  {
+    "repository": "LineageOS/android_external_bson",
+    "target_path": "external/bson",
+    "branch": "cm-14.1"
+  }
+],
+[
+  {
+    "repository": "BirdSanctuary/kernel_xiaomi_msm8956",
+    "target_path": "kernel/xiaomi/msm8956",
+    "branch": "oreo-mr1"
+  }
+],
+[
+  {
+    "repository": "xd003/device_xiaomi_kenzo",
+    "target_path": "device/xiaomi/kenzo",
+    "branch": "fh"
+  }
+],
+[
+  {
+    "repository": "xd003/devie_xiaomi_msm8956-common",
+    "target_path": "device/xiaomi/msm8956-common",
+    "branch": "fh"
+  }
+] 
