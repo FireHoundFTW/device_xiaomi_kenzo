@@ -21,9 +21,9 @@
 ],
 [
   {
-    "repository": "xd003/device_xiaomi_kenzo",
-    "target_path": "device/xiaomi/kenzo",
-    "branch": "fh"
+    "repository": "BirdSanctuary/proprietary_vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch": "oreo-mr1"  
   }
 ],
 [
