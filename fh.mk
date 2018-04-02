@@ -19,7 +19,7 @@
 $(call inherit-product, device/xiaomi/kenzo/full_kenzo.mk)
 
 # Inherit some common FireHound stuff.
-$(call inherit-product, vendor/fh/common.mk)
+$(call inherit-product, vendor/fh/config/common_full_phone.mk)
 
 # Set those variables here to overwrite the inherited values.
 BOARD_VENDOR := Xiaomi
